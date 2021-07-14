@@ -1,13 +1,13 @@
 {
   "name": "gulp-pug-mjml-mailing",
   "version": "0.2.0",
-  "description": "Workflow for mailing creation from MJML to HTML from pug",
+  "description": "Mail-creator for MJML. Convert pug to HTML",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@ithub.com:renaco/gulp-pug-mjml-mailing.git"
+    "url": ""
   },
-  "author": "renaco",
+  "author": "RaptorII",
   "homepage": "https://github.com/renaco/gulp-pug-mjml-mailing",
   "devDependencies": {
     "browser-sync": "2.26.7",

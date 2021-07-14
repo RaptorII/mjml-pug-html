@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="730bcddb-1f81-432f-9762-7d4fe9e637b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/views/_includes/_layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/_includes/_layout.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/views/_includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/_includes/footer.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/views/_includes/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/_includes/header.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/views/templates/first.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/templates/first.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/views/templates/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/templates/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/views/templates/second.pug" beforeDir="false" afterPath="$PROJECT_DIR$/source/views/templates/second.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gulp-pug-mjml-mailing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626190416429</updated>
       <workItem from="1626190417600" duration="614000" />
-      <workItem from="1626254417479" duration="2392000" />
+      <workItem from="1626254417479" duration="7583000" />
     </task>
     <servers />
   </component>
@@ -51,9 +49,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1063" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1626256292135">
+    <state x="1063" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1626260930619">
       <screen x="0" y="27" width="2560" height="1053" />
     </state>
-    <state x="1063" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1053@0.27.2560.1053" timestamp="1626256292135" />
+    <state x="1063" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1053@0.27.2560.1053" timestamp="1626260930619" />
+    <state x="739" y="285" width="1240" height="536" key="find.popup" timestamp="1626261606202">
+      <screen x="0" y="27" width="2560" height="1053" />
+    </state>
+    <state x="739" y="285" width="1240" height="536" key="find.popup/0.27.2560.1053@0.27.2560.1053" timestamp="1626261606202" />
   </component>
 </project>
