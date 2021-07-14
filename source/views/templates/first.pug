@@ -1,0 +1,50 @@
+extends  ./../_includes/_first.pug
+
+block content
+    mj-section(padding='0 0px 10px 20px')
+        mj-column(width='333px', padding='0')
+            mj-image(src='img/Pic1_engtr.png', padding='0')
+
+    mj-section(padding='10px 0 0 0')
+        mj-column(width='240px')
+            mj-text(mj-class='black big center lh26', padding='0')
+                | The richer your vocabulary is, the better you:
+
+    mj-section(padding='10px 0 ')
+        mj-column(width='312px', padding='0px 10px 0px 20px', position='relative')
+            mj-table(mj-class='green mediumlh', padding='0')
+                tr
+                    td(style='padding-right:20px;padding-top:5px;')
+                        img(width='33', src='img/Pic_01.png')
+                    td(padding='16px 0')
+                        | Express yourself in writing
+                tr
+                    td(style='padding-right:20px;padding-top:5px;')
+                        img(width='33', src='img/Pic_02.png')
+                    td(padding='16px 0')
+                        | Communicate ideas to others
+                tr
+                    td(style='padding-right:20px;padding-top:5px;')
+                        img(width='33', src='img/Pic_03.png')
+                    td(padding='16px 0')
+                        | Comprehend novels and textbooks
+
+    mj-section(padding='0')
+        mj-column(width='440px', padding='0')
+            mj-text(mj-class='center', padding='20px 0px 0px 0px')
+                img(width='120', align='center', src='img/Group_h1.png')
+
+    mj-section(padding='0')
+        mj-column(width='440px', background-color='#FFF8E6', padding='0px 30px 0px 30px', border-radius='0', position='relative')
+            mj-text(mj-class='center')
+                img(width='120', align='center', src='img/Group_h2.png', style='margin-top: 0')
+            mj-text(mj-class='black big center', padding='10px 0')
+                | The secret of getting ahead is getting started.
+            mj-text(mj-class='black medium center', padding='10px 0')
+                | Get premium access to {{ project_title }}
+                | and improve your  vocabulary faster!
+
+    mj-section(padding='0')
+        mj-column(mj-class='center', width='440px', background-color='#FFF8E6', padding='0px', border-radius='0 0 4px 4px', position='relative')
+            mj-button( mj-class='button', href = '#', padding='20px 0 30px 0', target="_blank")
+                | Improve my vocabulary

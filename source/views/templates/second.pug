@@ -1,0 +1,75 @@
+extends  ./../_includes/_layout_my.pug
+
+block header
+
+block content
+  mj-section(padding='0 10px', border='0')
+    mj-column
+      mj-image(mj-class='center', width='40px', padding='20px 0 50px 0', src='../img/MaskGroup.png')
+  mj-section(padding='0 10px', border='0')
+    mj-column
+      mj-image(mj-class='center', width='380px', padding='0 0 20px 0', src='../img/Group464.png')
+  mj-section(border='0', padding='0')
+    mj-column(width='400px')
+      mj-text(mj-class='white big center', width='400px', padding='0 20px')
+        h1
+          | Get ready for a good night with Sleep booster:
+
+  mj-section(mj-class='center', padding='10px 0 0 0', border='0')
+    mj-column(mj-class='black', width='284px', padding='30px', border-radius='30px', background-color='#ffffff')
+      mj-table(mj-class='center', padding='0px', width='214px', align='center')
+        tr
+          td
+            img(width='18px', padding='0 18px', valign='-5px', src='../img/input.png')
+          td(line-height='18px', style="padding: 0px 20px")
+            span(href='' style='font-size: 14px; line-height: 30px; color: #000000; font-weight: bold;')
+              | Check your patterns
+        tr
+          td
+            img(width='18px', padding='0 18px', valign='-5px', src='../img/input.png')
+          td(line-height='18px', style='padding: 5px 20px;')
+            span(href='' style='font-size: 14px; line-height: 26px; color: #000000; font-weight: bold;')
+              | Set up a smart alarm
+        tr
+          td
+            img(width='18px', padding='0 18px', valign='-5px', src='../img/input.png')
+          td(line-height='18px', style='padding: 5px 19px;')
+            span(href='#' style='font-size: 14px; line-height: 26px; color: #000000; font-weight: bold;')
+              | Start your Sleep Ritual
+
+      mj-button(mj-class='center button-b white border-w', width='214px', padding='30px 0 0 0', href='#', target='_blank', align='center')
+        | GET READY
+
+  mj-section(padding='10px 0 0 0', border='0')
+    mj-column(width='364px')
+      mj-text(mj-class='white small center',  width='364px', padding='0px 20px 0 20px', margin='0')
+        p
+          | Subscribe to a Premium account and enjoy all features on {{ project_title }}!
+
+  mj-section(padding='7px 0 12px 0')
+    mj-column(width='224px')
+      mj-button(mj-class='center button-w black border-w', width='224px', padding='0', href='#', position='relative', target='_blank')
+        | Enjoy premium
+
+
+  mj-section(padding='5px 0 10px 0')
+    mj-column(width='400px' )
+      mj-divider(mj-class='center', width='400px', border-width='1px', border-style='solid', border-color="#ffffff", padding='0')
+
+  mj-section(padding='0 0 0 0')
+    mj-column(width='140px', padding='13px 0', mj-class='center')
+      mj-image(width='133px', padding='0', src='../img/googleplaybadge.png')
+    mj-column(width='140px', padding='13px 0 ', mj-class='center')
+      mj-image(width='118px', padding='0', src='../img/DownloadontheAppStoreBadge.png')
+
+  mj-section(padding='0')
+    mj-column(width='378px')
+      mj-text(mj-class='white small center', width='378px', font-size='12px', line-height='20px', padding='0 25px 0 25px' )
+        p
+          | You've received this email because you've signed up
+          | at <a href='app.get-namesite.com' style='color: #fff' target='_blank'>app.get-namesite.com</a>
+        p
+          | You can refuse to receive news and special offers
+          | by <a href='#' style='color: #fff' target='_blank'>unsubscribing</a> from these emails.
+
+block footer
