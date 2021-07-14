@@ -2,4 +2,4 @@ node_modules/
 _includes/
 #build/
 temp/
-./idea
+.idea
